@@ -18,7 +18,7 @@ This is a real-time file sharing web application built with modern HTML, CSS, an
 
 ## Live Demo
 Access the live version hosted on GitHub Pages:  
-[https://yourusername.github.io/real-time-file-sharing](https://jatingoyal14.github.io/File-Share/)
+[https://jatingoyal14.github.io/real-time-file-sharing](https://jatingoyal14.github.io/File-Share/)
 
 ## Installation & Setup
 
